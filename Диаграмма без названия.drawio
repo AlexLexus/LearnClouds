@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T18:51:52.638Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="uS2uNtWcvqkbqaC2SeKE" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-06T20:05:30.122Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="7mGuJDrlbQwm1jKyUwZl" version="20.5.1" type="github">
   <diagram id="xzCoyiNCGajoSQ4GJbQJ" name="Страница 1">
-    <mxGraphModel dx="1478" dy="955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="#003366" math="0" shadow="0">
+    <mxGraphModel dx="1818" dy="1175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="#003366" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="520" y="360" width="240" height="240" as="geometry" />
         </mxCell>
         <mxCell id="N5uYOlMwzdbbFmkBd_oy-52" value="Kubernetes Cluster" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=9;fontColor=#FFFF66;fillColor=none;gradientColor=none;dashed=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="40" y="160" width="1120" height="480" as="geometry" />
+          <mxGeometry x="41" y="160" width="1120" height="480" as="geometry" />
         </mxCell>
         <mxCell id="N5uYOlMwzdbbFmkBd_oy-1" value="Kubernetes Master Node" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;fillColor=none;dashed=1;strokeColor=#FFFF66;fontColor=#FFFF66;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="80" y="200" width="400" height="400" as="geometry" />
@@ -139,6 +139,9 @@
         </mxCell>
         <mxCell id="N5uYOlMwzdbbFmkBd_oy-57" value="Cloud" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#004C99;fontSize=9;fontColor=#FFFF66;fillColor=#006666;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="320" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N5uYOlMwzdbbFmkBd_oy-58" value="Secrets" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFF66;fontSize=9;fontColor=#FFFF66;fillColor=#004C99;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
